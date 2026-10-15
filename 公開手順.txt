@@ -1,0 +1,20 @@
+しらす式 動く作戦図｜軍師の声 Ver.2（敵部隊・壁線）
+
+【通常版・軍師の声Ver.は変更せず、別アプリとして公開】
+
+1. GitHubで新しく Public リポジトリ「shirasu-gunshi-v2」を作成します。
+2. ZIPを解凍した中の「index.html」を新しいリポジトリの最上位にアップロードします。
+3. 「Commit changes」を押して保存します。
+4. Settings → Pages → Deploy from a branch → main → /(root) → Save
+5. 公開ページURL： https://tsurukabu.github.io/shirasu-gunshi-v2/
+　※上記は同名リポジトリを作った場合のURLで、公開完了後にアクセスできます。
+
+【機能】
+砦・城モード、A～D部隊（各最大3ルート）、録音カウントダウン、WAV形式の軍師の声の録音、BGMのみ／軍師の声のみ／声＋BGMで動画を書き出し。
+敵部隊マーク：敵A・B・C・Dと人数を入力して、地図にタップ配置。
+壁線：極太線を指でなぞって描く。
+
+【注意】
+GitHubアプリのリポジトリではなく、iPhoneのSafariでGitHub Pages URLを開いて使用してください。
+iPhoneの録音と動画書き出しは端末によって動作が異なるため、本番前に録音・試聴・動画を各1回テストしてください。
+従来の Shirasu-sakusen / shirasu-gunshi-voice には絶対に上書きしないでください。
